@@ -1,3 +1,20 @@
+"""
+Regex Validator / Regex-Prüfer - GUI Tool for Testing Regular Expressions
+
+Description/Beschreibung:
+Interactive Python tool to test and debug regex patterns against sample text.
+Interaktives Tool zum Testen von Regular Expressions mit Sofort-Feedback.
+
+Features/Funktionen:
+- Multiline text input / Mehrzeilige Texteingabe
+- Real-time validation / Echtzeit-Überprüfung
+- Error handling / Fehlerbehandlung
+- Tkinter GUI / Tkinter-Oberfläche
+
+Keywords/Schlüsselwörter:
+regex tester, python regex validator / Regex Prüfung, Regular Expressions Testen
+"""
+
 from tkinter import *
 import re
 
