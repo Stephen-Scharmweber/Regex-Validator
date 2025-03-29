@@ -15,7 +15,7 @@
 ## Installation  
 ```bash
 # Clone and run / Klonen und starten:
-git clone https://github.com/your/repo.git
+git clone https://github.com/Stephen-Scharmweber/Regex-Validator.git
 cd regex-validator
 python regex_validator.py
 ```
